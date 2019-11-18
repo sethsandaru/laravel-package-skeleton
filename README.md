@@ -2,6 +2,15 @@
 
 I decided to make my own repo for Laravel Package Development. In case that you want to use or reference, use this repo :D
 
+## Package Main Structure
+- src
+    - controllers (depend)
+    - models (depend)
+    - views (depend)
+    - ServiceProvider.php (in repo)
+    - Facade.php (in repo)
+- tests (Unit test for Laravel/PHP here)
+
 ## Guide
 There will be some keywords in some files. You need to change it for your own cases.
 
@@ -11,6 +20,10 @@ There will be some keywords in some files. You need to change it for your own ca
 - `:facade`: your package main facade's name.
 
 Change them before coding.
+
+### Composer.json
+- Change the `name` to your own package name. Then change the `description`, `keyword`, `authors`,...
+- Update the keywords like above.
 
 ## What's next?
 - Start to code

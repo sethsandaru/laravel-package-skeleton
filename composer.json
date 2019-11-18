@@ -1,10 +1,18 @@
 {
-    "name": "sethsandaru/:package",
-    "type": "library|project",
-    "description": "Your description about ",
+    "name": "sethsandaru/laravel-package-skeleton",
+    "type": "library",
+    "description": "Laravel ",
     "keywords": [
         "laravel",
         "your keyword here"
+    ],
+    "authors": [
+        {
+            "name": "Phat Tran (Seth Phat)",
+            "email": "phattranminh96@gmail.com",
+            "homepage": "https://sethphat.com",
+            "role": "Sr. Full-Stack Engineer"
+        }
     ],
     "license": "MIT",
     "require": {
