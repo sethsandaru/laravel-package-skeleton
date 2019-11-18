@@ -11,8 +11,16 @@ I decided to make my own repo for Laravel Package Development. In case that you 
     - Facade.php (in repo)
 - tests (Unit test for Laravel/PHP here)
 
-## Guide
-There will be some keywords in some files. You need to change it for your own cases.
+## How to use?
+- Clone this project
+    - Obviously you have to change the PHP
+- Create project by using **Composer**:
+```
+composer create-project sethsandaru/laravel-package-skeleton <folder-name>
+```
+
+
+**Note**: There will be some keywords in some files. You need to change it for your own cases.
 
 ### Keywords
 - `:package`: your package name - follow by the naming rule of Composer

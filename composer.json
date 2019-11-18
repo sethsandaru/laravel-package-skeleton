@@ -1,10 +1,11 @@
 {
     "name": "sethsandaru/laravel-package-skeleton",
     "type": "library",
-    "description": "Laravel ",
+    "description": "Laravel Package Development Skeleton - Starter",
     "keywords": [
         "laravel",
-        "your keyword here"
+        "laravel package development skeleton",
+        "starter project for laravel package development"
     ],
     "authors": [
         {
