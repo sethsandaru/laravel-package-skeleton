@@ -35,7 +35,7 @@ Change them before coding.
 
 ## What's next?
 - Start to code
-- Read the Laravel's documentation: [Package Development](https://laravel.com/docs/5.5/packages) for more detail.
+- Read the Laravel's documentation: [Package Development](https://laravel.com/docs/6.x/packages) for more detail.
 
 ## Enjoy this and want to contribute something?
 - Fork the project and create a pull request
